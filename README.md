@@ -8,6 +8,7 @@
 • <code>apt install git -y</code><br>
 • <code>git clone https://github.com/Mr-X-01/saycheese</code><br>
 • <code>cd saycheese</code><br>
+  open second terminal and type <code>ngrok http 3333</code><br>
 
 # How to start?
 • <code>bash saycheese.sh</code><br>
