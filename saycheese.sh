@@ -1,6 +1,6 @@
-#!/bin/bash
-# SayCheese v1.0
-# coded by: Mr. X
+# Author: Mr-X-01
+# Telegram: @Mrxanon
+# https://github.com/Mr-X-01
 
 trap 'printf "\n";stop' 2
 
